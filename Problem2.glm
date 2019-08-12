@@ -23,6 +23,7 @@ clock{
 //3. What propeties need to be established for input or output?
 
 object house {
+	floor_area 1000 sf; 
 	object player{	 	
 		property heating_setpoint; 
 		file "excercise_1.player";
