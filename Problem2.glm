@@ -26,6 +26,6 @@ object house {
 	object player{	 	
 		property heating_setpoint; 
 		file "excercise_1.player";
-		loop 28;		//Why loop 28 for a simulation fo 4 weeks?
+		//loop 28;		
 	};
 }
