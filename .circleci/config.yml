@@ -15,6 +15,7 @@ jobs:
       - run:
           name: Run the simulation
           command: |
+            ls
             gridlabd Problem2.glm
             echo "Model finished"
 
