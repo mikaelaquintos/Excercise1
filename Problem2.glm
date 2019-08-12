@@ -26,7 +26,7 @@ object house {
 	floor_area 1000 sf; 
 	object player{	 	
 		property heating_setpoint; 
-		file "excercise_1.player";
+		file "exercise_1.player";
 		//loop 28;		
 	};
 }
